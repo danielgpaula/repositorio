@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom, #000000, #333333); /* Modifique as cores conforme desejado */
+    
+}
+
+a {
+  color: #333; /* Define a cor do texto dos links como cinza escuro (#333) */
+  text-decoration: none; /* Remova o sublinhado padrão dos links */
+}
+
+
+.navbar-logo {
+    max-height: 3rem; /* Defina a altura máxima que deseja para a imagem */
+  }
+
+  .rounded-circle {
+    border-radius: 50%; /* Transforma a imagem em um círculo */
+  }
+
+ 
